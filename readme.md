@@ -1,1 +1,1 @@
-Arquitectura de software - actividad 10
+Arquitectura de software - repositorio para actividades
